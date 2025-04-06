@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Dot net\\StudentMangementSystemC8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\database\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:database\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\migrations\\20250406033515_createtablestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:migrations\\20250406033515_createtablestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\database\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:database\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250406033515_CreateTableStudent.cs",
-              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Migrations\\20250406033515_CreateTableStudent.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250406033515_CreateTableStudent.cs",
-              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Migrations\\20250406033515_CreateTableStudent.cs",
-              "RelativeToolTip": "Migrations\\20250406033515_CreateTableStudent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T03:35:15.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T04:49:11.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T04:37:46.349Z",
+              "WhenOpened": "2025-04-06T05:19:39.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
-              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Database\\AppDbContext.cs",
-              "RelativeToolTip": "Database\\AppDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAYAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T04:29:18.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Database\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "Database\\Entities\\Student.cs",
               "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Database\\Entities\\Student.cs",
               "RelativeToolTip": "Database\\Entities\\Student.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAANAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T04:14:20.154Z",
+              "WhenOpened": "2025-04-06T04:13:43.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:10:19.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
+              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Database\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:58:44.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:54:41.947Z",
               "EditorCaption": ""
             }
           ]

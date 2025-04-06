@@ -18,7 +18,8 @@ builder.Services.AddDbContext<AppDbContext>(
     
     (options) =>
     {
-        options.UseNpgsql(builder.Configuration.GetConnectionString("PostgresConnection"));
+        options.UseNpgsql(builder.Configuration.GetConnectionString("PostgresConnection")).LogTo(Console.WriteLine);
+            
     }
 
     );
