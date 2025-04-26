@@ -133,3 +133,8 @@ D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnaly
 D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\Dot net\StudentMangementSystemC8\obj\Debug\net8.0\StudentMangementSystemC8.sourcelink.json
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

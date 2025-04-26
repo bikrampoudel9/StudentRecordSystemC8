@@ -1,5 +1,7 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using StudentMangementSystemC8.Database;
+using StudentMangementSystemC8.Database.Entities;
 using StudentMangementSystemC8.Settings;
 using System.Runtime;
 
@@ -23,6 +25,9 @@ builder.Services.AddDbContext<AppDbContext>(
     }
 
     );
+
+builder.Services.AddIdentity<User, IdentityRole<long>>()
+    .AddEntityFrameworkStores<AppDbContext>();
 
 
 var app = builder.Build();
