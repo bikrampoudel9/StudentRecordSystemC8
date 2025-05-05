@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StudentMangementSystemC8.Database;
@@ -24,7 +25,10 @@ namespace StudentMangementSystemC8.Controllers
             return Ok(student);
         }
 
+
+        
         [HttpGet("get-all")]
+        [Authorize]
         public IActionResult GetAllStudents()
         {
             List<Student> allStudents = database.Students.ToList();

@@ -16,5 +16,12 @@ namespace StudentMangementSystemC8.Database.Entities
         public required string Email { get; set; }
 
         public required string Phone { get; set; }
+
+        [ForeignKey("Address")]
+        public Guid? AddressId { get; set; } 
+
+
+        //Navigation Property
+        public Address? Address { get; set; }
     }
 }

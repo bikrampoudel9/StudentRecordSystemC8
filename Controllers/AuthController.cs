@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.JSInterop.Infrastructure;
 using StudentMangementSystemC8.Database.Entities;
 using StudentMangementSystemC8.Models;
+using StudentMangementSystemC8.Service;
 
 namespace StudentMangementSystemC8.Controllers
 {
@@ -14,11 +15,13 @@ namespace StudentMangementSystemC8.Controllers
     {
         private readonly UserManager<User> _userManager;
         private readonly SignInManager<User> _signInManager;
+        private readonly JwtService _jwtService;
 
-        public AuthController(UserManager<User> userManager, SignInManager<User> signInManager)
+        public AuthController(UserManager<User> userManager, SignInManager<User> signInManager, JwtService jwtService)
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            _jwtService = jwtService;
         }
 
         [HttpPost("register")]
@@ -55,7 +58,15 @@ namespace StudentMangementSystemC8.Controllers
 
             if (result.Succeeded)
             {
-                return Ok("Login success");
+                return Ok(
+
+                    new
+                    {
+                        Message = "Login Success",
+                        Token = _jwtService.GenerateToken()
+                    }
+
+                    );
             }
             return Unauthorized("Password is not valid");
 

@@ -138,3 +138,11 @@ D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.AspNetCore.Crypto
 D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dot net\StudentMangementSystemC8\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

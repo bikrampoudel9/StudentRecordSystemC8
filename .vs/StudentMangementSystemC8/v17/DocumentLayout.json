@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Dot net\\StudentMangementSystemC8\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\database\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:database\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\database\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:database\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|d:\\dot net\\studentmangementsystemc8\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF5A53E-1583-4034-86BA-219E5AC05E3F}|StudentMangementSystemC8.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dot net\\StudentMangementSystemC8\\Migrations\\20250504043055_ChangeNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250504043055_ChangeNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250504043055_ChangeNullable.cs",
+              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Migrations\\20250504043055_ChangeNullable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250504043055_ChangeNullable.cs",
+              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Migrations\\20250504043055_ChangeNullable.cs",
+              "RelativeToolTip": "Migrations\\20250504043055_ChangeNullable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:30:55.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:19:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
+              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Database\\AppDbContext.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:08:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Database\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Database\\Entities\\Student.cs",
+              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Database\\Entities\\Student.cs",
+              "RelativeToolTip": "Database\\Entities\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:03:14.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Dot net\\StudentMangementSystemC8\\Database\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "Database\\Entities\\Address.cs",
+              "ToolTip": "D:\\Dot net\\StudentMangementSystemC8\\Database\\Entities\\Address.cs",
+              "RelativeToolTip": "Database\\Entities\\Address.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:58:32.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
